@@ -1,0 +1,89 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<asmv1:assembly xsi:schemaLocation="urn:schemas-microsoft-com:asm.v1 assembly.adaptive.xsd" manifestVersion="1.0" xmlns:asmv1="urn:schemas-microsoft-com:asm.v1" xmlns="urn:schemas-microsoft-com:asm.v2" xmlns:asmv2="urn:schemas-microsoft-com:asm.v2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:co.v1="urn:schemas-microsoft-com:clickonce.v1" xmlns:asmv3="urn:schemas-microsoft-com:asm.v3" xmlns:dsig="http://www.w3.org/2000/09/xmldsig#" xmlns:co.v2="urn:schemas-microsoft-com:clickonce.v2">
+  <asmv1:assemblyIdentity name="Holographic Video Player.exe" version="1.4.0.0" publicKeyToken="f0c21460542ebb28" language="neutral" processorArchitecture="msil" type="win32" />
+  <description asmv2:iconFile="Hologram Icon.ico" xmlns="urn:schemas-microsoft-com:asm.v1" />
+  <application />
+  <entryPoint>
+    <assemblyIdentity name="Holographic Video Player" version="1.0.0.0" language="neutral" processorArchitecture="msil" />
+    <commandLine file="Holographic Video Player.exe" parameters="" />
+  </entryPoint>
+  <trustInfo>
+    <security>
+      <applicationRequestMinimum>
+        <PermissionSet version="1" class="System.Security.NamedPermissionSet" Name="LocalIntranet" Description="Default rights given to applications on the local intranet" Unrestricted="true" ID="Custom" SameSite="site" />
+        <defaultAssemblyRequest permissionSetReference="Custom" />
+      </applicationRequestMinimum>
+      <requestedPrivileges xmlns="urn:schemas-microsoft-com:asm.v3">
+        <!-- UAC Manifest Options
+            If you want to change the Windows User Account Control level replace the 
+            requestedExecutionLevel node with one of the following.
+
+        <requestedExecutionLevel  level="asInvoker" uiAccess="false" />
+        <requestedExecutionLevel  level="requireAdministrator" uiAccess="false" />
+        <requestedExecutionLevel  level="highestAvailable" uiAccess="false" />
+
+            Specifying requestedExecutionLevel node will disable file and registry virtualization.
+            If you want to utilize File and Registry Virtualization for backward 
+            compatibility then delete the requestedExecutionLevel node.
+        -->
+        <requestedExecutionLevel level="asInvoker" uiAccess="false" />
+      </requestedPrivileges>
+    </security>
+  </trustInfo>
+  <dependency>
+    <dependentOS>
+      <osVersionInfo>
+        <os majorVersion="5" minorVersion="1" buildNumber="2600" servicePackMajor="0" />
+      </osVersionInfo>
+    </dependentOS>
+  </dependency>
+  <dependency>
+    <dependentAssembly dependencyType="preRequisite" allowDelayedBinding="true">
+      <assemblyIdentity name="Microsoft.Windows.CommonLanguageRuntime" version="4.0.30319.0" />
+    </dependentAssembly>
+  </dependency>
+  <dependency>
+    <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="Holographic Video Player.exe" size="10351040">
+      <assemblyIdentity name="Holographic Video Player" version="1.0.0.0" language="neutral" processorArchitecture="msil" />
+      <hash>
+        <dsig:Transforms>
+          <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+        </dsig:Transforms>
+        <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
+        <dsig:DigestValue>6BQrZBK28LC0M9tM5i7g6qgGZxWExc9jan+CpzQzzRs=</dsig:DigestValue>
+      </hash>
+    </dependentAssembly>
+  </dependency>
+  <file name="Hologram Icon.ico" size="5089094">
+    <hash>
+      <dsig:Transforms>
+        <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+      </dsig:Transforms>
+      <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
+      <dsig:DigestValue>GQQYuLfBqgpaR7LE/+qc6tom5ja/d99+BPfgf2XRORM=</dsig:DigestValue>
+    </hash>
+  </file>
+  <file name="Holographic Video Player.exe.config" size="187">
+    <hash>
+      <dsig:Transforms>
+        <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+      </dsig:Transforms>
+      <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
+      <dsig:DigestValue>xm4bo26HQ0LNVwz1vdPYtzhkpMnp2AI5i+f0b+OahTI=</dsig:DigestValue>
+    </hash>
+  </file>
+  <compatibility xmlns="urn:schemas-microsoft-com:compatibility.v1">
+    <application>
+      <!-- A list of all Windows versions that this application is designed to work with. 
+      Windows will automatically select the most compatible environment.-->
+      <!-- If your application is designed to work with Windows Vista, uncomment the following supportedOS node-->
+      <!--<supportedOS Id="{e2011457-1546-43c5-a5fe-008deee3d3f0}"></supportedOS>-->
+      <!-- If your application is designed to work with Windows 7, uncomment the following supportedOS node-->
+      <!--<supportedOS Id="{35138b9a-5d96-4fbd-8e2d-a2440225f93a}"/>-->
+      <!-- If your application is designed to work with Windows 8, uncomment the following supportedOS node-->
+      <!--<supportedOS Id="{4a2f28e3-53b9-4441-ba9c-d69d4a4a6e38}"></supportedOS>-->
+      <!-- If your application is designed to work with Windows 8.1, uncomment the following supportedOS node-->
+      <!--<supportedOS Id="{1f676c76-80e1-4239-95bb-83d0f6d0da78}"/>-->
+    </application>
+  </compatibility>
+<publisherIdentity name="CN=DICHOLKAR\saide" issuerKeyHash="b36c29271ae8cd50338f1cdda5b44cf7208c6ff2" /><Signature Id="StrongNameSignature" xmlns="http://www.w3.org/2000/09/xmldsig#"><SignedInfo><CanonicalizationMethod Algorithm="http://www.w3.org/2001/10/xml-exc-c14n#" /><SignatureMethod Algorithm="http://www.w3.org/2000/09/xmldsig#rsa-sha256" /><Reference URI=""><Transforms><Transform Algorithm="http://www.w3.org/2000/09/xmldsig#enveloped-signature" /><Transform Algorithm="http://www.w3.org/2001/10/xml-exc-c14n#" /></Transforms><DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" /><DigestValue>9ymSG3ZacDn6UE21ZeQkNo/IDDZV/O5ic3yjDy6/ulY=</DigestValue></Reference></SignedInfo><SignatureValue>EosSnrJ8P7z0UKBjzXsSlY5qREfWzFFtWVEsWVrFlbANXlkoXzDoJ44poXcQGr9x2m3nliScsIoEmdVGsgNvlr3FM1N//uv/u43viJI91PG75SPGxzDGYMaiCuxCyfPJVo8dRh3y4CRhZioFBaBL+uH3xq7cCP62UZm4Ql2kGpQ=</SignatureValue><KeyInfo Id="StrongNameKeyInfo"><KeyValue><RSAKeyValue><Modulus>uEyYWPryOBgl5jjN89Z8jZfPGQ0DmF5Ryhu6xh4voV0PMKHbpcmm8hR9aV/PDUevOC/KWc1Sduec6NLjPCZ/HsibubZYII1VjvNOxpE9+p6rUPURiQKiDFcgh2fSfrVZPzFYVRgNY16Q1O20Yozw2gllPHTHEK24OA3V86MszVs=</Modulus><Exponent>AQAB</Exponent></RSAKeyValue></KeyValue><msrel:RelData xmlns:msrel="http://schemas.microsoft.com/windows/rel/2005/reldata"><r:license xmlns:r="urn:mpeg:mpeg21:2003:01-REL-R-NS" xmlns:as="http://schemas.microsoft.com/windows/pki/2005/Authenticode"><r:grant><as:ManifestInformation Hash="56babf2e0fa37c7362eefc55360cc88f3624e465b54d50fa39705a761b9229f7" Description="" Url=""><as:assemblyIdentity name="Holographic Video Player.exe" version="1.4.0.0" publicKeyToken="f0c21460542ebb28" language="neutral" processorArchitecture="msil" type="win32" /></as:ManifestInformation><as:SignedBy /><as:AuthenticodePublisher><as:X509SubjectName>CN=DICHOLKAR\saide</as:X509SubjectName></as:AuthenticodePublisher></r:grant><r:issuer><Signature Id="AuthenticodeSignature" xmlns="http://www.w3.org/2000/09/xmldsig#"><SignedInfo><CanonicalizationMethod Algorithm="http://www.w3.org/2001/10/xml-exc-c14n#" /><SignatureMethod Algorithm="http://www.w3.org/2000/09/xmldsig#rsa-sha256" /><Reference URI=""><Transforms><Transform Algorithm="http://www.w3.org/2000/09/xmldsig#enveloped-signature" /><Transform Algorithm="http://www.w3.org/2001/10/xml-exc-c14n#" /></Transforms><DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" /><DigestValue>+dXc+8kXRT/VYBPnwuC0XX1iPOfY167BA5584fNFipY=</DigestValue></Reference></SignedInfo><SignatureValue>QinBu5O1yOb8/DsYAz60q/yqysH98sIdFRQNjWdNuV3DqavBkSO5pik6NGQ/ZqrUBFrkxVA8/B0LQWMOw7utHcm6NFC5lhdQyUG82gEKniGzAAcQdjKAJQxHYUyK3HfLzppJ2ubROljJXsY9o+YowW9JSrQoviqDwsTVo75jsUY=</SignatureValue><KeyInfo><KeyValue><RSAKeyValue><Modulus>uEyYWPryOBgl5jjN89Z8jZfPGQ0DmF5Ryhu6xh4voV0PMKHbpcmm8hR9aV/PDUevOC/KWc1Sduec6NLjPCZ/HsibubZYII1VjvNOxpE9+p6rUPURiQKiDFcgh2fSfrVZPzFYVRgNY16Q1O20Yozw2gllPHTHEK24OA3V86MszVs=</Modulus><Exponent>AQAB</Exponent></RSAKeyValue></KeyValue><X509Data><X509Certificate>MIIB1TCCAT6gAwIBAgIQGWtfI18qMYNLy7AZX15uyjANBgkqhkiG9w0BAQsFADApMScwJQYDVQQDHh4ARABJAEMASABPAEwASwBBAFIAXABzAGEAaQBkAGUwHhcNMTUxMjExMTIyNzMyWhcNMTYxMjEwMTgyNzMyWjApMScwJQYDVQQDHh4ARABJAEMASABPAEwASwBBAFIAXABzAGEAaQBkAGUwgZ8wDQYJKoZIhvcNAQEBBQADgY0AMIGJAoGBALhMmFj68jgYJeY4zfPWfI2XzxkNA5heUcobusYeL6FdDzCh26XJpvIUfWlfzw1HrzgvylnNUnbnnOjS4zwmfx7Im7m2WCCNVY7zTsaRPfqeq1D1EYkCogxXIIdn0n61WT8xWFUYDWNekNTttGKM8NoJZTx0xxCtuDgN1fOjLM1bAgMBAAEwDQYJKoZIhvcNAQELBQADgYEASEK9SrS+l9n35Rn8oAfheodB5Bq4WzywpPnP1hp69BaAVeychel8U6qyTP+mpkdrf+HgAL2VR13NgkjiHTxkAqaYOUoERt2sMun5uesdpCvQ2J5kbEF3xv3LrRx62QezCbZdoCpW9SNNx09jGAf8hNAyoCjWTyDRU7pa+V8G9bk=</X509Certificate></X509Data></KeyInfo></Signature></r:issuer></r:license></msrel:RelData></KeyInfo></Signature></asmv1:assembly>
