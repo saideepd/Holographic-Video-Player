@@ -30,4 +30,4 @@ We were inspired by this video by Mrwhosetheboss and were interestd in such tech
 
 
 ###### Note: 
-This project was developed 2 years back in 2013 but we hadn't uploaded it as we were not so familiar with open source software develpoment and GitHub.
+This project was developed 1.5 years back in 2016 but we hadn't uploaded it as we were not so familiar with open source software develpoment and GitHub.
