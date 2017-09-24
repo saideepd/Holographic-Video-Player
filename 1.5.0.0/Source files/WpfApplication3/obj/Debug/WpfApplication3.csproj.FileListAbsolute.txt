@@ -1,0 +1,74 @@
+c:\users\saide\documents\visual studio 2013\Projects\WpfApplication3\WpfApplication3\bin\Debug\Holographic Video Player.exe
+c:\users\saide\documents\visual studio 2013\Projects\WpfApplication3\WpfApplication3\bin\Debug\Holographic Video Player.pdb
+C:\Users\saide\documents\visual studio 2013\Projects\WpfApplication3\WpfApplication3\bin\Debug\Holographic Video Player.exe.config
+C:\Users\saide\documents\visual studio 2013\Projects\WpfApplication3\WpfApplication3\bin\Debug\Holographic Video Player.exe.manifest
+C:\Users\saide\documents\visual studio 2013\Projects\WpfApplication3\WpfApplication3\bin\Debug\Holographic Video Player.application
+C:\Users\saide\documents\visual studio 2013\Projects\WpfApplication3\WpfApplication3\obj\Debug\MainWindow.baml
+C:\Users\saide\documents\visual studio 2013\Projects\WpfApplication3\WpfApplication3\obj\Debug\MainWindow.g.cs
+C:\Users\saide\documents\visual studio 2013\Projects\WpfApplication3\WpfApplication3\obj\Debug\App.g.cs
+C:\Users\saide\documents\visual studio 2013\Projects\WpfApplication3\WpfApplication3\obj\Debug\Holographic Video Player_MarkupCompile.cache
+C:\Users\saide\documents\visual studio 2013\Projects\WpfApplication3\WpfApplication3\obj\Debug\Holographic Video Player.g.resources
+C:\Users\saide\documents\visual studio 2013\Projects\WpfApplication3\WpfApplication3\obj\Debug\WpfApplication3.Properties.Resources.resources
+C:\Users\saide\documents\visual studio 2013\Projects\WpfApplication3\WpfApplication3\obj\Debug\WpfApplication3.csproj.GenerateResource.Cache
+C:\Users\saide\documents\visual studio 2013\Projects\WpfApplication3\WpfApplication3\obj\Debug\Holographic Video Player.TrustInfo.xml
+C:\Users\saide\documents\visual studio 2013\Projects\WpfApplication3\WpfApplication3\obj\Debug\Holographic Video Player.exe.manifest
+C:\Users\saide\documents\visual studio 2013\Projects\WpfApplication3\WpfApplication3\obj\Debug\Holographic Video Player.application
+C:\Users\saide\documents\visual studio 2013\Projects\WpfApplication3\WpfApplication3\obj\Debug\Holographic Video Player.exe
+C:\Users\saide\documents\visual studio 2013\Projects\WpfApplication3\WpfApplication3\obj\Debug\Holographic Video Player.pdb
+C:\Users\saide\documents\visual studio 2013\Projects\WpfApplication3\WpfApplication3\obj\Debug\WpfApplication3.csprojResolveAssemblyReference.cache
+C:\Users\Jigar Panchal\Desktop\Source files\WpfApplication3\bin\Debug\Holographic Video Player.exe.config
+C:\Users\Jigar Panchal\Desktop\Source files\WpfApplication3\obj\Debug\Holographic Video Player.exe
+C:\Users\Jigar Panchal\Desktop\Source files\WpfApplication3\obj\Debug\Holographic Video Player.pdb
+C:\Users\Jigar Panchal\Desktop\Source files\WpfApplication3\bin\Debug\Holographic Video Player.exe.manifest
+C:\Users\Jigar Panchal\Desktop\Source files\WpfApplication3\bin\Debug\Holographic Video Player.application
+C:\Users\Jigar Panchal\Desktop\Source files\WpfApplication3\bin\Debug\Holographic Video Player.exe
+C:\Users\Jigar Panchal\Desktop\Source files\WpfApplication3\bin\Debug\Holographic Video Player.pdb
+C:\Users\Jigar Panchal\Desktop\Source files\WpfApplication3\obj\Debug\WpfApplication3.csprojResolveAssemblyReference.cache
+C:\Users\Jigar Panchal\Desktop\Source files\WpfApplication3\obj\Debug\MainWindow.baml
+C:\Users\Jigar Panchal\Desktop\Source files\WpfApplication3\obj\Debug\MainWindow.g.cs
+C:\Users\Jigar Panchal\Desktop\Source files\WpfApplication3\obj\Debug\App.g.cs
+C:\Users\Jigar Panchal\Desktop\Source files\WpfApplication3\obj\Debug\Holographic Video Player_MarkupCompile.cache
+C:\Users\Jigar Panchal\Desktop\Source files\WpfApplication3\obj\Debug\Holographic Video Player.g.resources
+C:\Users\Jigar Panchal\Desktop\Source files\WpfApplication3\obj\Debug\WpfApplication3.Properties.Resources.resources
+C:\Users\Jigar Panchal\Desktop\Source files\WpfApplication3\obj\Debug\WpfApplication3.csproj.GenerateResource.Cache
+C:\Users\Jigar Panchal\Desktop\Source files\WpfApplication3\obj\Debug\Holographic Video Player.TrustInfo.xml
+C:\Users\Jigar Panchal\Desktop\Source files\WpfApplication3\obj\Debug\Holographic Video Player.exe.manifest
+C:\Users\Jigar Panchal\Desktop\Source files\WpfApplication3\obj\Debug\Holographic Video Player.application
+D:\VP DOCUMENTS\Project\1.5.0.0\Source files\WpfApplication3\bin\Debug\Holographic Video Player.exe.config
+D:\VP DOCUMENTS\Project\1.5.0.0\Source files\WpfApplication3\obj\Debug\Holographic Video Player.exe
+D:\VP DOCUMENTS\Project\1.5.0.0\Source files\WpfApplication3\obj\Debug\Holographic Video Player.pdb
+D:\VP DOCUMENTS\Project\1.5.0.0\Source files\WpfApplication3\bin\Debug\Holographic Video Player.exe.manifest
+D:\VP DOCUMENTS\Project\1.5.0.0\Source files\WpfApplication3\bin\Debug\Holographic Video Player.application
+D:\VP DOCUMENTS\Project\1.5.0.0\Source files\WpfApplication3\bin\Debug\Holographic Video Player.exe
+D:\VP DOCUMENTS\Project\1.5.0.0\Source files\WpfApplication3\bin\Debug\Holographic Video Player.pdb
+D:\VP DOCUMENTS\Project\1.5.0.0\Source files\WpfApplication3\obj\Debug\WpfApplication3.csprojResolveAssemblyReference.cache
+D:\VP DOCUMENTS\Project\1.5.0.0\Source files\WpfApplication3\obj\Debug\MainWindow.baml
+D:\VP DOCUMENTS\Project\1.5.0.0\Source files\WpfApplication3\obj\Debug\MainWindow.g.cs
+D:\VP DOCUMENTS\Project\1.5.0.0\Source files\WpfApplication3\obj\Debug\App.g.cs
+D:\VP DOCUMENTS\Project\1.5.0.0\Source files\WpfApplication3\obj\Debug\Holographic Video Player_MarkupCompile.cache
+D:\VP DOCUMENTS\Project\1.5.0.0\Source files\WpfApplication3\obj\Debug\Holographic Video Player.g.resources
+D:\VP DOCUMENTS\Project\1.5.0.0\Source files\WpfApplication3\obj\Debug\WpfApplication3.Properties.Resources.resources
+D:\VP DOCUMENTS\Project\1.5.0.0\Source files\WpfApplication3\obj\Debug\WpfApplication3.csproj.GenerateResource.Cache
+D:\VP DOCUMENTS\Project\1.5.0.0\Source files\WpfApplication3\obj\Debug\Holographic Video Player.TrustInfo.xml
+D:\VP DOCUMENTS\Project\1.5.0.0\Source files\WpfApplication3\obj\Debug\Holographic Video Player.exe.manifest
+D:\VP DOCUMENTS\Project\1.5.0.0\Source files\WpfApplication3\obj\Debug\Holographic Video Player.application
+D:\VP DOCUMENTS\Project\1.5.0.4\Source files\WpfApplication3\bin\Debug\Holographic Video Player.exe.config
+D:\VP DOCUMENTS\Project\1.5.0.4\Source files\WpfApplication3\obj\Debug\Holographic Video Player.exe
+D:\VP DOCUMENTS\Project\1.5.0.4\Source files\WpfApplication3\obj\Debug\Holographic Video Player.pdb
+C:\1.5.0.0\Source files\WpfApplication3\bin\Debug\Holographic Video Player.exe.config
+C:\1.5.0.0\Source files\WpfApplication3\bin\Debug\Holographic Video Player.exe.manifest
+C:\1.5.0.0\Source files\WpfApplication3\bin\Debug\Holographic Video Player.application
+C:\1.5.0.0\Source files\WpfApplication3\bin\Debug\Holographic Video Player.exe
+C:\1.5.0.0\Source files\WpfApplication3\bin\Debug\Holographic Video Player.pdb
+C:\1.5.0.0\Source files\WpfApplication3\obj\Debug\MainWindow.baml
+C:\1.5.0.0\Source files\WpfApplication3\obj\Debug\MainWindow.g.cs
+C:\1.5.0.0\Source files\WpfApplication3\obj\Debug\App.g.cs
+C:\1.5.0.0\Source files\WpfApplication3\obj\Debug\Holographic Video Player_MarkupCompile.cache
+C:\1.5.0.0\Source files\WpfApplication3\obj\Debug\Holographic Video Player.g.resources
+C:\1.5.0.0\Source files\WpfApplication3\obj\Debug\WpfApplication3.Properties.Resources.resources
+C:\1.5.0.0\Source files\WpfApplication3\obj\Debug\WpfApplication3.csproj.GenerateResource.Cache
+C:\1.5.0.0\Source files\WpfApplication3\obj\Debug\Holographic Video Player.TrustInfo.xml
+C:\1.5.0.0\Source files\WpfApplication3\obj\Debug\Holographic Video Player.exe.manifest
+C:\1.5.0.0\Source files\WpfApplication3\obj\Debug\Holographic Video Player.application
+C:\1.5.0.0\Source files\WpfApplication3\obj\Debug\Holographic Video Player.exe
+C:\1.5.0.0\Source files\WpfApplication3\obj\Debug\Holographic Video Player.pdb
