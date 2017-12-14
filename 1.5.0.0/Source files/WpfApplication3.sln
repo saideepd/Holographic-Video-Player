@@ -5,6 +5,8 @@ VisualStudioVersion = 12.0.40629.0
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WpfApplication3", "WpfApplication3\WpfApplication3.csproj", "{07152D8B-6833-4BF6-BF5C-B6D444C2A4CC}"
 EndProject
+Project("{54435603-DBB4-11D2-8724-00A0C9A8B90C}") = "Holographic Video Player Setup", "Holographic Video Player Setup\Holographic Video Player Setup.vdproj", "{1028F543-6A2B-4A3F-93C9-DD23129AB057}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -15,6 +17,8 @@ Global
 		{07152D8B-6833-4BF6-BF5C-B6D444C2A4CC}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{07152D8B-6833-4BF6-BF5C-B6D444C2A4CC}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{07152D8B-6833-4BF6-BF5C-B6D444C2A4CC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1028F543-6A2B-4A3F-93C9-DD23129AB057}.Debug|Any CPU.ActiveCfg = Debug
+		{1028F543-6A2B-4A3F-93C9-DD23129AB057}.Release|Any CPU.ActiveCfg = Release
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
