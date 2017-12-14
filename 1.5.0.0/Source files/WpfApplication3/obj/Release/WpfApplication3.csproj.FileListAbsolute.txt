@@ -1,0 +1,18 @@
+C:\Users\saide\Desktop\Holographic-Video-Player-master\1.5.0.0\Source files\WpfApplication3\bin\Release\Holographic Video Player.exe.config
+C:\Users\saide\Desktop\Holographic-Video-Player-master\1.5.0.0\Source files\WpfApplication3\bin\Release\Holographic Video Player.exe.manifest
+C:\Users\saide\Desktop\Holographic-Video-Player-master\1.5.0.0\Source files\WpfApplication3\bin\Release\Holographic Video Player.application
+C:\Users\saide\Desktop\Holographic-Video-Player-master\1.5.0.0\Source files\WpfApplication3\bin\Release\Holographic Video Player.exe
+C:\Users\saide\Desktop\Holographic-Video-Player-master\1.5.0.0\Source files\WpfApplication3\bin\Release\Holographic Video Player.pdb
+C:\Users\saide\Desktop\Holographic-Video-Player-master\1.5.0.0\Source files\WpfApplication3\obj\Release\WpfApplication3.csprojResolveAssemblyReference.cache
+C:\Users\saide\Desktop\Holographic-Video-Player-master\1.5.0.0\Source files\WpfApplication3\obj\Release\MainWindow.baml
+C:\Users\saide\Desktop\Holographic-Video-Player-master\1.5.0.0\Source files\WpfApplication3\obj\Release\MainWindow.g.cs
+C:\Users\saide\Desktop\Holographic-Video-Player-master\1.5.0.0\Source files\WpfApplication3\obj\Release\App.g.cs
+C:\Users\saide\Desktop\Holographic-Video-Player-master\1.5.0.0\Source files\WpfApplication3\obj\Release\Holographic Video Player_MarkupCompile.cache
+C:\Users\saide\Desktop\Holographic-Video-Player-master\1.5.0.0\Source files\WpfApplication3\obj\Release\Holographic Video Player.g.resources
+C:\Users\saide\Desktop\Holographic-Video-Player-master\1.5.0.0\Source files\WpfApplication3\obj\Release\WpfApplication3.Properties.Resources.resources
+C:\Users\saide\Desktop\Holographic-Video-Player-master\1.5.0.0\Source files\WpfApplication3\obj\Release\WpfApplication3.csproj.GenerateResource.Cache
+C:\Users\saide\Desktop\Holographic-Video-Player-master\1.5.0.0\Source files\WpfApplication3\obj\Release\Holographic Video Player.TrustInfo.xml
+C:\Users\saide\Desktop\Holographic-Video-Player-master\1.5.0.0\Source files\WpfApplication3\obj\Release\Holographic Video Player.exe.manifest
+C:\Users\saide\Desktop\Holographic-Video-Player-master\1.5.0.0\Source files\WpfApplication3\obj\Release\Holographic Video Player.application
+C:\Users\saide\Desktop\Holographic-Video-Player-master\1.5.0.0\Source files\WpfApplication3\obj\Release\Holographic Video Player.exe
+C:\Users\saide\Desktop\Holographic-Video-Player-master\1.5.0.0\Source files\WpfApplication3\obj\Release\Holographic Video Player.pdb
