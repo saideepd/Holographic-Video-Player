@@ -6,13 +6,17 @@
         <SolidColorBrush Color="Black"/>
     </Window.BorderBrush>
     <Grid x:Name="Grid">
+        <Grid.RowDefinitions>
+            <RowDefinition Height="227*"/>
+            <RowDefinition Height="478*"/>
+        </Grid.RowDefinitions>
 
-        <MediaElement x:Name="mediaElement3" HorizontalAlignment="Left" Height="230" Margin="508,460,0,0" VerticalAlignment="Top" Width="360" LoadedBehavior="Manual" Volume="0" RenderTransformOrigin="0.5,0.5">
+        <MediaElement x:Name="mediaElement3" HorizontalAlignment="Left" Height="230" Margin="508,233,0,0" VerticalAlignment="Top" Width="360" LoadedBehavior="Manual" Volume="0" RenderTransformOrigin="0.5,0.5" Grid.Row="1">
             <MediaElement.RenderTransform>
                 <TransformGroup>
                     <ScaleTransform/>
                     <SkewTransform/>
-                    <RotateTransform Angle="180"/>
+                    <RotateTransform Angle="359.759"/>
                     <TranslateTransform/>
                 </TransformGroup>
             </MediaElement.RenderTransform>
@@ -20,21 +24,21 @@
 
         <Button Content="" HorizontalAlignment="Left" Margin="10,10,0,0" VerticalAlignment="Top" Width="55" Click="Button_Click" Height="60" IsDefault="True" ToolTip="Load Media" HorizontalContentAlignment="Center" Cursor="Hand" BorderBrush="{x:Null}" Foreground="Black" FontWeight="Bold" FontSize="14">
             <Button.OpacityMask>
-                <ImageBrush ImageSource="C:\1.5.0.0\Source files\WpfApplication3\Open.ico" Stretch="Uniform"/>
+                <ImageBrush ImageSource="C:\1.5.0.0\Source files\WpfApplication3\Open.png" Stretch="Uniform"/>
             </Button.OpacityMask>
             <Button.Background>
-                <ImageBrush ImageSource="C:\1.5.0.0\Source files\WpfApplication3\Open.ico" Stretch="Uniform"/>
+                <ImageBrush ImageSource="C:\1.5.0.0\Source files\WpfApplication3\Open.png" Stretch="Uniform"/>
             </Button.Background>
         </Button>
         <Button Content="" HorizontalAlignment="Left" Margin="98,10,0,0" VerticalAlignment="Top" Width="60" RenderTransformOrigin="0.312,0.458" Click="Button_Click_1" Height="60" ToolTip="Play Media" Cursor="Hand" BorderBrush="{x:Null}" Foreground="Black">
             <Button.Background>
-                <ImageBrush ImageSource="file:///C:\1.5.0.0\Source files\WpfApplication3/Play.gif" Stretch="Uniform"/>
+                <ImageBrush ImageSource="file:///C:\1.5.0.0\Source files\WpfApplication3/Play.png" Stretch="Uniform"/>
             </Button.Background>
             <Button.OpacityMask>
-                <ImageBrush Stretch="Uniform" ImageSource="C:\1.5.0.0\Source files\WpfApplication3\Play.gif"/>
+                <ImageBrush Stretch="Uniform" ImageSource="C:\1.5.0.0\Source files\WpfApplication3\Play.png"/>
             </Button.OpacityMask>
         </Button>
-        <Button Content="" HorizontalAlignment="Left" Margin="190,10,0,0" VerticalAlignment="Top" Width="50" Click="Button_Click_2" Height="60" ToolTip="Pause Media" Cursor="Hand" Background="White">
+        <Button Content="" HorizontalAlignment="Left" Margin="190,10,0,0" VerticalAlignment="Top" Width="50" Click="Button_Click_2" Height="60" ToolTip="Pause Media" Cursor="Hand" BorderBrush="{x:Null}" BorderThickness="0" Background="White">
             <Button.OpacityMask>
                 <ImageBrush ImageSource="C:\1.5.0.0\Source files\WpfApplication3\Pause.png" Stretch="Uniform"/>
             </Button.OpacityMask>
@@ -47,23 +51,32 @@
                 <ImageBrush ImageSource="C:\1.5.0.0\Source files\WpfApplication3\Stop.png" Stretch="Uniform"/>
             </Button.Background>
         </Button>
-        <MediaElement x:Name="mediaElement2" Height="230" Margin="738,240,0,0" VerticalAlignment="Top" LoadedBehavior="Manual" Volume="0" RenderTransformOrigin="0.5,0.5" HorizontalAlignment="Left" Width="360">
+        <MediaElement x:Name="mediaElement2" Height="230" Margin="738,13,0,0" VerticalAlignment="Top" LoadedBehavior="Manual" Volume="0" RenderTransformOrigin="0.5,0.5" HorizontalAlignment="Left" Width="360" Grid.Row="1">
             <MediaElement.RenderTransform>
                 <TransformGroup>
                     <ScaleTransform/>
                     <SkewTransform/>
-                    <RotateTransform Angle="90"/>
+                    <RotateTransform Angle="269.843"/>
                     <TranslateTransform/>
                 </TransformGroup>
             </MediaElement.RenderTransform>
         </MediaElement>
-        <MediaElement x:Name="mediaElement1" HorizontalAlignment="Left" Height="230" VerticalAlignment="Top" Width="360" LoadedBehavior="Manual" Margin="508,20,0,0" Volume="0.5" RenderTransformOrigin="0.5,0.5" SpeedRatio="1"/>
-        <MediaElement x:Name="mediaElement4" Height="229" Margin="289,240,0,0" VerticalAlignment="Top" RenderTransformOrigin="0.5,0.5" Volume="0" LoadedBehavior="Manual" HorizontalAlignment="Left" Width="360">
+        <MediaElement x:Name="mediaElement1" HorizontalAlignment="Left" Height="230" VerticalAlignment="Top" Width="360" LoadedBehavior="Manual" Margin="508,20,0,0" Volume="0.5" RenderTransformOrigin="0.5,0.5" SpeedRatio="1" Grid.RowSpan="2">
             <MediaElement.RenderTransform>
                 <TransformGroup>
                     <ScaleTransform/>
                     <SkewTransform/>
-                    <RotateTransform Angle="270"/>
+                    <RotateTransform Angle="180.085"/>
+                    <TranslateTransform/>
+                </TransformGroup>
+            </MediaElement.RenderTransform>
+        </MediaElement>
+        <MediaElement x:Name="mediaElement4" Height="229" Margin="289,13,0,0" VerticalAlignment="Top" RenderTransformOrigin="0.5,0.5" Volume="0" LoadedBehavior="Manual" HorizontalAlignment="Left" Width="360" Grid.Row="1">
+            <MediaElement.RenderTransform>
+                <TransformGroup>
+                    <ScaleTransform/>
+                    <SkewTransform/>
+                    <RotateTransform Angle="90.151"/>
                     <TranslateTransform/>
                 </TransformGroup>
             </MediaElement.RenderTransform>

@@ -14,7 +14,7 @@
     <ProjectTypeGuids>{60dc8134-eba5-43b8-bcc9-bb4bc16c2548};{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}</ProjectTypeGuids>
     <WarningLevel>4</WarningLevel>
     <IsWebBootstrapper>false</IsWebBootstrapper>
-    <PublishUrl>D:\VP DOCUMENTS\Project\11-01-2016\</PublishUrl>
+    <PublishUrl>C:\Users\saide\Desktop\Holographic\</PublishUrl>
     <Install>true</Install>
     <InstallFrom>Disk</InstallFrom>
     <UpdateEnabled>false</UpdateEnabled>
@@ -27,7 +27,7 @@
     <ProductName>Holographic Video Player</ProductName>
     <PublisherName>Holographic Video Player</PublisherName>
     <SuiteName>Hologram</SuiteName>
-    <ApplicationRevision>9</ApplicationRevision>
+    <ApplicationRevision>10</ApplicationRevision>
     <ApplicationVersion>1.5.0.%2a</ApplicationVersion>
     <UseApplicationTrust>false</UseApplicationTrust>
     <CreateDesktopShortcut>true</CreateDesktopShortcut>
@@ -156,9 +156,6 @@
       <ProductName>.NET Framework 3.5 SP1</ProductName>
       <Install>false</Install>
     </BootstrapperPackage>
-  </ItemGroup>
-  <ItemGroup>
-    <Resource Include="Play Normal.ico" />
   </ItemGroup>
   <ItemGroup>
     <Resource Include="Hologram Icon.ico" />
