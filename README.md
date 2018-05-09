@@ -29,7 +29,3 @@ We were inspired by this video by Mrwhosetheboss and were interestd in such tech
 ![holographic video player in real time environment s](https://user-images.githubusercontent.com/30663492/30781540-341f6fec-a13e-11e7-9fb1-edf0e2f48c11.JPG)
 
 ![img_20160305_105046921 1](https://user-images.githubusercontent.com/30663492/30781755-4c5dc758-a142-11e7-8a6a-f2464cefb678.jpg)
-
-
-#### Note: 
-This project was developed 1.5 years back in 2016 but we hadn't uploaded it as we were not so familiar with open source software develpoment and GitHub.
